@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Year3GroupBackend.Models
+namespace GroupBackend.Models
 
 
 {

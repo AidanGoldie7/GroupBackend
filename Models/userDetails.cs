@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace Year3GroupBackend.Models
+namespace GroupBackend.Models
 {
     public class userDetails
     {

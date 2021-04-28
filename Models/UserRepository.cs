@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace GroupBackend.Models
+namespace groupbackend.Models
 {
     public class UserRepository: IUserRepository
     {

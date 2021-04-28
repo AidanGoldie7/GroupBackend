@@ -1,6 +1,6 @@
 using System;
 
-namespace GroupBackend.Models
+namespace groupbackend.Models
 {
     public class ErrorViewModel
     {
